@@ -1,0 +1,30 @@
+* {margin: 0;padding: 0;font-family: Assistant,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif}
+
+
+header {display: flex;
+height: 88px;
+background-color: rgb(56, 199, 180);justify-content: space-between;
+align-items: center;
+}
+
+.logo1 {height: 36px;
+width: 53px;}
+
+ .logo {margin-left: 4%;}
+
+.actionbar {margin-right: 4%;}
+.home {display: inline;}
+
+.navbar {display: flex
+    ; min-width: 500px;
+justify-content: space-between;}
+
+.navbar a {font-size: 14px;
+letter-spacing: .3px;
+color: #282c3f;
+text-decoration: none;font-weight: 700px;
+}
+.sup { color: #ff3f6c;}
+
+.search {color: aliceblue;
+background-color: rgb(128, 146, 161);}
